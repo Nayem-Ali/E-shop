@@ -13,6 +13,7 @@
 6. Clean Architecture is followed to build this task
 
 ## Screenshorts
-![home](https://github.com/user-attachments/assets/ae1682ea-4ecb-420c-bbe6-4a724a23830f)
-![product](https://github.com/user-attachments/assets/6cf0d5c9-7ced-4f7a-9dc0-505d661146f2)
+
+<img src="https://github.com/user-attachments/assets/ae1682ea-4ecb-420c-bbe6-4a724a23830f" width="300"/>
+<img src="https://github.com/user-attachments/assets/6cf0d5c9-7ced-4f7a-9dc0-505d661146f2" width="300"/>
 
